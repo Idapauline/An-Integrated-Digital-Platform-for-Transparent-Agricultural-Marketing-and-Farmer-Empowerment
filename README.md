@@ -1,0 +1,2 @@
+# An-Integrated-Digital-Platform-for-Transparent-Agricultural-Marketing-and-Farmer-Empowerment
+An Integrated Digital Platform for Transparent Agricultural Marketing and Farmer Empowerment is a digital solution that connects farmers directly with buyers, ensuring fair pricing and transparent transactions. It provides real-time market prices, secure payments, weather updates, crop advice, and logistics support to improve farmers welfare
